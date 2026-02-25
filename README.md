@@ -1,17 +1,17 @@
-<h1 align="center">Hello, I'm Raúl</h1>
+<h1 align="center">👋 Hello, I'm <strong>Raúl</strong></h1>
 <h3 align="center">Computer Science Student from Portugal 🇵🇹</h3>
 
 <p align="center">
-Curious about how things work • Focused on clean code • Always learning
+  Curious about how things work • Focused on clean code • Always learning
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/TEU_LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/TEU_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -24,7 +24,5 @@ Curious about how things work • Focused on clean code • Always learning
 ---
 
 <p align="center">
-🚀 Growing one project at a time
+  🚀 Growing one project at a time
 </p>
-
-
