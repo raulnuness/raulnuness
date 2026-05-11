@@ -18,11 +18,11 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-    <b><strong>Frontend:</strong></b><br/>
+    <b><strong>Frontend:</strong></b><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
-    <b>Backend:</b><br/>
+    <b>Backend:</b><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
-    <b>Tools:</b>
+    <b>Tools:</b><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
 </p>
 
