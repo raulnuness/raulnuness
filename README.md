@@ -20,8 +20,10 @@
 <p align="left">
     <b><strong>Frontend:</strong></b><br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
-    <b>Backend:</b> PHP, Python, Node.js, Laravel<br/>
-    <b>Tools:</b> Git, Docker, Linux, MySQL
+    <b>Backend:</b><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
+    <b>Tools:</b>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
   </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,react,nodejs,laravel,mysql,git,github,docker,vscode,linux" />
