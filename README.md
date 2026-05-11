@@ -24,9 +24,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
     <b>Tools:</b>
     <img src="https://skillicons.dev/icons?i=html,css,js,react"><br><br>
-  </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,react,nodejs,laravel,mysql,git,github,docker,vscode,linux" />
 </p>
 
 ---
