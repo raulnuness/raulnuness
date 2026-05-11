@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm <strong>Raúl</strong> 👋</h1>
-<h3 align="center">Student programmer in Portugal 🇵🇹</h3>
+<h3 align="center">Student Programmer in Portugal 🇵🇹</h3>
 
 <p align="center">
-  Curious about how things work • Focused on clean code • Always learning
+  Building things that work • Learning by doing • Open to collab
 </p>
 
 ---
