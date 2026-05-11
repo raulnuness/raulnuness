@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,php,java,cpp,mysql,laravel,apple,github,vscode,postman,arduino,figma">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,php,java,cpp,mysql,laravel,apple,github,vscode,,postman,arduino,figma,obsidian">
 </p>
 
 ---
