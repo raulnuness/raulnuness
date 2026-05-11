@@ -16,7 +16,12 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
+<p align="left">
+    <b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, React<br/>
+    <b>Backend:</b> PHP, Python, Node.js, Laravel<br/>
+    <b>Tools:</b> Git, Docker, Linux, MySQL
+  </p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,react,nodejs,laravel,mysql,git,github,docker,vscode,linux" />
 </p>
