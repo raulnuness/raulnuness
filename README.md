@@ -18,7 +18,8 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-    <b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, React<br/>
+    <b>Frontend:</b><br/>
+    <img src="https://skillicons.dev/icons?i=html">
     <b>Backend:</b> PHP, Python, Node.js, Laravel<br/>
     <b>Tools:</b> Git, Docker, Linux, MySQL
   </p>
